@@ -1422,7 +1422,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KT90CtG1l8x8WqeFl_L-636" value="&lt;div&gt;KL Divergence between matrices P and T&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2KT90CtG1l8x8WqeFl_L-636" value="&lt;div&gt;KL Divergence between matrices P and T&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="285" y="1060" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2KT90CtG1l8x8WqeFl_L-641" value="&lt;div&gt;\(\text{ P }\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
