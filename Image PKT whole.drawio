@@ -2688,7 +2688,7 @@
             <mxRectangle width="20" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KT90CtG1l8x8WqeFl_L-484" value="&lt;div&gt;Predictions&amp;nbsp; Joint Probability Distribution&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2KT90CtG1l8x8WqeFl_L-484" value="&lt;div&gt;&lt;b&gt;Predictions&amp;nbsp; Joint Probability Distribution&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="57" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2KT90CtG1l8x8WqeFl_L-618" value="&lt;font&gt;1&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#0000FF;verticalAlign=bottom;" parent="1" vertex="1">
@@ -2696,7 +2696,7 @@
             <mxRectangle width="20" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KT90CtG1l8x8WqeFl_L-619" value="&lt;div&gt;Predictions&amp;nbsp; Joint Probability Distribution&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2KT90CtG1l8x8WqeFl_L-619" value="&lt;div&gt;Targets&amp;nbsp; Joint Probability Distribution&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="609" y="460" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2KT90CtG1l8x8WqeFl_L-620" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
