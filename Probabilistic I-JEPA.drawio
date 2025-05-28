@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Σελίδα-1" id="3e7bHVvW3uJRTeOxdSLg">
-    <mxGraphModel dx="168" dy="120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1010" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -688,8 +688,8 @@
         <mxCell id="2KT90CtG1l8x8WqeFl_L-626" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.4;" parent="1" vertex="1">
           <mxGeometry x="528" y="90" width="25" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="2KT90CtG1l8x8WqeFl_L-636" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;L₂ + KL Divergence between P and T&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="820" y="260" width="200" height="70" as="geometry" />
+        <mxCell id="2KT90CtG1l8x8WqeFl_L-636" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;L₂ + KL Divergence&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="822" y="262" width="171" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2KT90CtG1l8x8WqeFl_L-233" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000FF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1500" y="225.42000000000002" width="50" height="50" as="geometry" />
@@ -1286,6 +1286,12 @@
         </mxCell>
         <mxCell id="KoxFrpL2jLQj1kw5td9V-225" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.4;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1285" y="96.75" width="25" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KoxFrpL2jLQj1kw5td9V-227" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.4;" vertex="1" parent="1">
+          <mxGeometry x="790" y="190" width="25" height="176.18" as="geometry" />
+        </mxCell>
+        <mxCell id="KoxFrpL2jLQj1kw5td9V-228" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.4;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="190" width="25" height="176.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
